@@ -6,10 +6,10 @@ My current focus is on building a solid foundation in both the Principles of Dee
 
 Feel free to connect with me to discuss Python, C++, data structures, and algorithms. I'm particularly interested in how these concepts apply to system-level challenges in AI.
 
+## Activity graph
 [![John's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junhaoguo809-crypto&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=junhaoguo809-crypto)](https://github.com/ryo-ma/github-profile-trophy)
-
+## Github stats
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaoguo809-crypto)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
