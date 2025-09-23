@@ -1,5 +1,5 @@
 ## Hi，All the best to you. 👋
-[![John's cd](https://stats.justsong.cn/api/leetcode?username=John_Hexacn=true)](https://github.com/songquanpeng/stats-cards)
+[![John's cd](https://stats.justsong.cn/api/leetcode?username=yi-shi-ju-zhong-ren&cn=true)](https://github.com/songquanpeng/stats-cards)
 
 
 I'm a graduate student at the University of Chinese Academy of Sciences with a strong interest in AI infrastructure and the open-source community.
