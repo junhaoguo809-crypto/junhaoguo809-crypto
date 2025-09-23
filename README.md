@@ -6,10 +6,8 @@ My current focus is on building a solid foundation in both the Principles of Dee
 
 Feel free to connect with me to discuss Python, C++, data structures, and algorithms. I'm particularly interested in how these concepts apply to system-level challenges in AI.
 
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)]
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaoguo809-crypto)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhaoguo809-crypto）]
 
 <!--
 **junhaoguo809-crypto/junhaoguo809-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
