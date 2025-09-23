@@ -1,5 +1,5 @@
 ## Hi，All the best to you. 👋
-
+[![John's cd](https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=true)](https://github.com/songquanpeng/stats-cards)
 I'm a graduate student at the University of Chinese Academy of Sciences with a strong interest in AI infrastructure and the open-source community.
 
 My current focus is on building a solid foundation in both the Principles of Deep Learning and the underlying Modern Deep Learning Frameworks. I'm dedicated to understanding how to optimize and scale these systems.
