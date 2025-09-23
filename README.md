@@ -1,6 +1,10 @@
 ## Hi，All the best to you. 👋
-[![John's cd](https://stats.justsong.cn/api/codeforces?username=lionlions)](https://github.com/songquanpeng/stats-cards)
-lionlions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 I'm a graduate student at the University of Chinese Academy of Sciences with a strong interest in AI infrastructure and the open-source community.
