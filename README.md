@@ -1,11 +1,5 @@
 ## Hi，All the best to you. 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junhaoguo809-crypto/junhaoguo809-crypto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junhaoguo809-crypto/junhaoguo809-crypto/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/junhaoguo809-crypto/junhaoguo809-crypto/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 I'm a graduate student at the University of Chinese Academy of Sciences with a strong interest in AI infrastructure and the open-source community.
 
@@ -15,6 +9,12 @@ Feel free to connect with me to discuss Python, C++, data structures, and algori
 
 ## Activity graph
 [![John's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junhaoguo809-crypto&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junhaoguo809-crypto/junhaoguo809-crypto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junhaoguo809-crypto/junhaoguo809-crypto/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/junhaoguo809-crypto/junhaoguo809-crypto/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Github stats
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaoguo809-crypto)](https://github.com/anuraghazra/github-readme-stats)
