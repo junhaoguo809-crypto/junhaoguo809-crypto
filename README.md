@@ -1,5 +1,11 @@
 ## Hi，All the best to you. 👋
 
+I'm a graduate student at the University of Chinese Academy of Sciences with a strong interest in AI infrastructure and the open-source community.
+
+My current focus is on building a solid foundation in both the Principles of Deep Learning and the underlying Modern Deep Learning Frameworks. I'm dedicated to understanding how to optimize and scale these systems.
+
+Feel free to connect with me to discuss Python, C++, data structures, and algorithms. I'm particularly interested in how these concepts apply to system-level challenges in AI.
+
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhaoguo809-crypto)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
